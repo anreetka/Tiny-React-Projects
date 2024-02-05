@@ -1,2 +1,6 @@
 # Tiny-React-Projects
-Small react projects based on some important react concepts
+
+List of project using React js concepts:
+
+1. Count Tracker** (Using useState())** : keep a track of your counter 
+
