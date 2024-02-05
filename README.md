@@ -3,8 +3,8 @@
 List of project using React js concepts:
 
 1.
-Project: Count Tracker
-Concept Used: UseState()
+Project: Count Tracker <br>
+Concept Used: UseState() <br>
 Workflow: Keeps a track of your counter
 
 2.
