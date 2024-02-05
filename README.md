@@ -2,15 +2,13 @@
 
 List of project using React js concepts:
 
-1.
-Project: Count Tracker <br>
+1.<br>Project: Count Tracker <br>
 Concept Used: UseState() <br>
-Workflow: Keeps a track of your counter
+Workflow: Keeps a track of your counter<br>
 
-2.
-Project: TBD
-Concept Used: UseEffect()
-Workflow: TBD
+2. <br>Project: TBD<br>
+Concept Used: UseEffect()<br>
+Workflow: TBD<br>
 
 
 
