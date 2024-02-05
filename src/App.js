@@ -1,9 +1,11 @@
 import './App.css';
-import UseState from './concepts/UseState';
+import Header from './components/Header';
+import UseState from './components/UseState';
 
 function App() {
   return (
-    <div>
+    <div className="ui container">
+      <Header></Header>
       <UseState></UseState>
     </div>
   );
