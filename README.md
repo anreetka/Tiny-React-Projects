@@ -2,9 +2,9 @@
 
 List of project using React js concepts:
 
-[Concept Used: UseState()]
+  [Concept Used: UseState()]
 1. Count Tracker : keep a track of your counter
 
-[Concept Used: UseEffect()]
+  [Concept Used: UseEffect()]
 2. 
 
