@@ -2,5 +2,5 @@
 
 List of project using React js concepts:
 
-1. Count Tracker** (Using useState())** : keep a track of your counter 
+1. [Concept Used: UseState()] Count Tracker : keep a track of your counter 
 
